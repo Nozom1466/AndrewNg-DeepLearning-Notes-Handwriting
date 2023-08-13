@@ -62,7 +62,7 @@
 
 2.16 A note on python or numpy vectors 
 
-2.17 Jupyter/iPython Notebooks快速入门 Quick tour of Jupyter/iPython Notebooks 
+2.17 Quick tour of Jupyter/iPython Notebooks 
 
 2.18 Explanation of logistic regression cost function 
 
@@ -316,7 +316,7 @@
 
 4.3 Siamese network 
 
-4.4 Triplet 损失 
+4.4 Triplet Loss
 
 4.5 Face verification and binary classification 
 
