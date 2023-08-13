@@ -17,6 +17,7 @@
 
 ### Further
 - [Dive into Deep Learning-LiMu](https://d2l.ai/)
+- [Dive into Deep Learning-LiMu-Bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 ### Pytorch
 - [PyTorch for Deep Learning & Machine Learning](https://github.com/mrdbourke/pytorch-deep-learning)
